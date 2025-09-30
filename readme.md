@@ -13,6 +13,7 @@ Student-
     view_accolades - Views the accolade of the student with the corresponding Id.
 
 User Already in the Database:
+
     Student 
     ID: 1
     Username: bob
